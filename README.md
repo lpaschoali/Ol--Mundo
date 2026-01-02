@@ -1,1 +1,3 @@
-Criado readme
+Esse é o meu primeiro repositório!
+Aprendendo a programar depois de velho...
+Follow for more!
